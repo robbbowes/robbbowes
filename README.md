@@ -6,6 +6,8 @@ I'm a language obsessed software developer and QA automation engineer
 I enjoy nothing more than spending all my money on Udemy courses, half completing them, and then trying to create some kind Frankenstein's monster project combining them together 🧟‍♂️      
 Sometimes with success  
 
+<hr />
+
 <div>🌱 - Currently learning Asp.Net Core</div>
 <div>🏋🏻‍♂️ - Working on improving my overhead press and deadlift</div>
 <div>🐕 - Ask me about dogs</div>
@@ -23,7 +25,7 @@ Sometimes with success
 <img alt="Danish flag" width="20px" style="padding-right:10px;" src="https://raw.githubusercontent.com/robbbowes/flags/5601193e168c4217f9fe01fcc31f54f460134bf6/denmark-flag-round-circle-icon.svg"/> <img alt="Finnish flag" width="20px" style="padding-right:10px;" src="https://raw.githubusercontent.com/robbbowes/flags/5601193e168c4217f9fe01fcc31f54f460134bf6/finland-flag-round-circle-icon.svg"/> Kamelåså / No niin
 
 ### 🤖 Tools
-<div align="left">
+<div>
   <img alt="Java" width="30px" style="padding-right:20px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"/>
   <img alt="C Sharp" width="30px" style="padding-right:20px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg"/>
   <img alt="Selenium" width="30px" style="padding-right:20px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />
@@ -31,7 +33,7 @@ Sometimes with success
   <img alt="TypeScript" width="30px" style="padding-right:20px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" />
 </div>
 <br />
-<div align="left">
+<div>
   <img alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
@@ -41,13 +43,9 @@ Sometimes with success
 
 <br />
 
-<div style="display: inline-block;">
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbbowes&layout=compact)](https://github.com/robbbowes)
+| <a href="https://github.com/robbbowes"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robbbowes&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Robb's github stats" /></a> | <a href="https://github.com/robbbowes"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbbowes&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=robbbowes)](https://github.com/robbbowes)
-   
-</div>
 
 <!--
 **robbbowes/robbbowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
