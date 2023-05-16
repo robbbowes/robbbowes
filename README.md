@@ -13,7 +13,7 @@ Sometimes with success
 <div>🎓 - Coding bootcamp background - shout out to CodeClan!</div>
 <div>🎵 - Metal & 1970s Swedish pop</div>
 <div>🪲 - 5+ years as a QA Automation Engineer using Java and Selenium</div>
-   
+
 ### 🗣️ Languages 
 
 <img alt="British flag" width="20px" style="padding-right:10px;" src="https://raw.githubusercontent.com/robbbowes/flags/5601193e168c4217f9fe01fcc31f54f460134bf6/uk-flag-round-circle-icon.svg"/> Native  
@@ -39,7 +39,15 @@ Sometimes with success
   <img alt="Angular" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" />
 </div>
 
----
+<br />
+
+<div style="display: inline-block;">
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbbowes&layout=compact)](https://github.com/robbbowes)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=robbbowes)](https://github.com/robbbowes)
+   
+</div>
 
 <!--
 **robbbowes/robbbowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
