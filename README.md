@@ -30,7 +30,7 @@ Sometimes with success  (👉ﾟヮﾟ)👉
 <div>💬 - French & German language graduate</div>
 <div>🎓 - Coding bootcamp background - shout out to CodeClan!</div>
 <div>🎵 - Metal & 1970s Swedish pop</div>
-<div>🪲 - 5+ years as a QA Automation Engineer using Java and Selenium</div>
+<div>🪲 - 6+ years as a QA Automation Engineer using Java, TypeScript, Selenium, Playwright, and WebdriverIO</div>
 
 <br />
 
